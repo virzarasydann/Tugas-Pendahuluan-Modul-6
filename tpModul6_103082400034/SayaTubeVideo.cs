@@ -24,10 +24,10 @@ namespace tpModul6_103082400034
 
         }
 
-        //public void PrintVideoDetails()
-        //{
+        public void PrintVideoDetails()
+        {
 
-        //    Console.WriteLine($"Id: {id}, Title: {title}, Play Count: {playCount}");
-        //}
+            Console.WriteLine($"Id: {id}, Title: {title}, Play Count: {playCount}");
+        }
     }
 }
